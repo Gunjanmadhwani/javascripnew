@@ -1,0 +1,2 @@
+# javascripnew
+practicising js
